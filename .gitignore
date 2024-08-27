@@ -6,3 +6,5 @@ bin/
 obj/
 /Tools/LinqToWiki.Codegen.App/
 /packages/
+*.meta
+/.vs
